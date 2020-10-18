@@ -1,5 +1,5 @@
-# Lecturer: Nguyen Tan Trung
-# Assistant : Nhi Ho
+# Lecturer: Nguyễn Tấn Trung
+# Assistant : Nhi Hồ 
 ## Information group
 
 # 18110053_ Nguyễn Quốc Bảo
