@@ -24,7 +24,8 @@ Introduction
 # Just normalization for validation
 '''
 Image Preprocessing:
-    The end result of passing through these transforms are tensors that can go into our network. The training transformations are similar but with the addition of random augmentations.
+    The end result of passing through these transforms are tensors that can go into our network. 
+    The training transformations are similar but with the addition of random augmentations.
 '''
 data_transforms = {
     'train': transforms.Compose([
