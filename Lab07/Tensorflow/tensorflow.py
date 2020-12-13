@@ -131,8 +131,8 @@ dict_slices = tf.data.Dataset.from_tensor_slices((df.to_dict('list'), target.val
 #   print(elem.numpy())
 
 # Kết quả :
-[8 3 0 8]
-[2 1]
+# [8 3 0 8]
+# [2 1]
 
 for dict_slice in dict_slices.take(2):
   print (dict_slice)
